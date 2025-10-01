@@ -1,3 +1,14 @@
+<!-- Snake Game Banner -->
+<p align="center">
+  <a href="https://nirob-snake-game.netlify.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/snake-gif.gif" alt="Play Snake Game" width="500" style="border-radius:15px; box-shadow:0 0 20px #000"/>
+  </a>
+  <br>
+  <b style="color:white">▶️ Click the banner to play Snake Game!</b>
+</p>
+
+---
+
 <!-- Banner / Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Kakashi;NIROB+BOT+ACTIVE" alt="Typing SVG" />
