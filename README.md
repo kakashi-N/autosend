@@ -1,5 +1,4 @@
 
-## 🎮 Play Snake Game (Auto-Animation)
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
