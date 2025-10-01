@@ -20,12 +20,11 @@
 
 ---
 
-## ⏰ Live Time (Dhaka, Bangladesh)
+## ⏰ Live Clock (Dhaka, Bangladesh)
 <p align="center">
-  ![Dhaka Time](https://img.shields.io/badge/Dhaka_Time-%F0%9F%95%B0%20%3C!--TIME-->%20UTC%2B6-brightgreen)
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/live-clock.gif" width="200" alt="Dhaka Live Clock GIF"/>
 </p>
-
-> ⚠️ Note: GitHub README cannot run live JavaScript. This badge updates per page refresh.
+> ⚠️ Note: This is a live clock **GIF**. It animates every second to mimic a real live clock.
 
 ---
 
