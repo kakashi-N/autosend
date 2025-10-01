@@ -1,10 +1,8 @@
-<!-- Snake Game Banner -->
+<!-- Snake Game Animation (Top) -->
 <p align="center">
-  <a href="https://nirob-snake-game.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/snake-gif.gif" alt="Play Snake Game" width="500" style="border-radius:15px; box-shadow:0 0 20px #000"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/snake-animation.gif" alt="Snake Game Animation" width="500" style="border-radius:15px; box-shadow:0 0 20px #000"/>
   <br>
-  <b style="color:white">▶️ Click the banner to play Snake Game!</b>
+  <b style="color:white">🐍 Snake Game Animation</b>
 </p>
 
 ---
@@ -39,7 +37,7 @@
 
 ---
 
-## madara rinegan gif
+## Madara Rinnegan GIF
 <p align="center">
   <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" alt="tetris gif" width="300"/>
 </p>
@@ -52,7 +50,3 @@
   <a href="https://www.facebook.com/hatake.kakashi.NN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://t.me/nirob404notfound"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">✨ Powered by <b>Anonymous NIROB</b> ✨</p>
