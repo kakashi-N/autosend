@@ -20,6 +20,15 @@
 
 ---
 
+## ⏰ Live Time (Dhaka, Bangladesh)
+<p align="center">
+  ![Dhaka Time](https://img.shields.io/badge/Dhaka_Time-%F0%9F%95%B0%20%3C!--TIME-->%20UTC%2B6-brightgreen)
+</p>
+
+> ⚠️ Note: GitHub README cannot run live JavaScript. This badge updates per page refresh.
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kakashi-N&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
@@ -28,9 +37,9 @@
 
 ---
 
-## 
+## 🎮 Cool GIF
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" alt="tetris gif" />
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" alt="tetris gif" width="300"/>
 </p>
 
 ---
