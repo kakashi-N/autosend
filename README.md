@@ -15,7 +15,7 @@
 <h2 align="center">🌌 NIROB HOSSAIN 🌌</h2>
 
 <p align="center">
-  <b style="color:black">💻 Developer | 🔒 Modifier | 🚀 Open Source Enthusiast</b>
+  <b style="color:black">💻 Developer | 🔒 Modifier | 🚀 </b>
 </p>
 
 ---
