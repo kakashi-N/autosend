@@ -22,7 +22,7 @@
 
 ## ⏰ Live Clock (Dhaka, Bangladesh)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/live-clock.gif" width="200" alt="Dhaka Live Clock GIF"/>
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/7c667dba-cbc5-46dd-9524-90d97249c1f3.jpeg" width="200" alt="Dhaka Live Clock GIF"/>
 </p>
 > ⚠️ Note: This is a live clock **GIF**. It animates every second to mimic a real live clock.
 
