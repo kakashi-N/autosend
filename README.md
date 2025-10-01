@@ -20,14 +20,6 @@
 
 ---
 
-## ⏰ Live Clock (Dhaka, Bangladesh)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/black-live-clock.gif" width="200" alt="Dhaka Live Clock GIF"/>
-</p>
-> ⚠️ Note: This is an **animated GIF** on black background showing live clock effect.
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kakashi-N&show_icons=true&theme=dark" alt="GitHub Stats" height="165"/>
