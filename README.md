@@ -12,10 +12,10 @@
 
 ---
 
-<h2 align="center">🤖 MAHABUB BOT 🤖</h2>
+<h2 align="center">NIROB HOSSAIN</h2>
 
 <p align="center">
-  <b>💻 Developer | 🔒 Anonymous Lover | 🚀 Open Source Enthusiast</b>
+  <b>💻 Developer | 🔒 Modifier | 🚀 Open Source Enthusiast</b>
 </p>
 
 ---
@@ -31,10 +31,10 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/kakashi-N"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/hatake.kakashi.NN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://t.me.nirob404.notfound"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">✨ Powered by <b>Anonymous U7P4L</b> ✨</p>
+<p align="center">✨ Powered by <b>Anonymous NIROB</b> ✨</p>
