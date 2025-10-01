@@ -7,7 +7,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/orca-image--170702772.jpeg.jpeg" width="250" style="border-radius:50%; box-shadow: 0 0 15px #000000"/>
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" width="250" style="border-radius:50%; box-shadow: 0 0 15px #000000"/>
 </p>
 
 ---
