@@ -28,9 +28,9 @@
 
 ---
 
-## 🎮 Play Snake Game (Auto-Animation)
+## 🎮 Tetris Game Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-tetris.svg" alt="tetris gif" />
 </p>
 
 ---
