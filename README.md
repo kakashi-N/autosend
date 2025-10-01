@@ -1,6 +1,6 @@
 <!-- Banner / Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Kakashi;NIROB+BOT+ACTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE;ANONYMOUS-📗-Kakashi;NIROB+BOT+ACTIVE" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,23 +15,23 @@
 <h2 align="center">🌌 NIROB HOSSAIN 🌌</h2>
 
 <p align="center">
-  <b style="color:black">💻 Developer | 🔒 Modifier | 🚀 </b>
+  <b style="color:white">💻 Developer | 🔒 Modifier | 🚀 </b>
 </p>
 
 ---
 
 ## ⏰ Live Clock (Dhaka, Bangladesh)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/7c667dba-cbc5-46dd-9524-90d97249c1f3.jpeg" width="200" alt="Dhaka Live Clock GIF"/>
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/black-live-clock.gif" width="200" alt="Dhaka Live Clock GIF"/>
 </p>
-> ⚠️ Note: This is a live clock **GIF**. It animates every second to mimic a real live clock.
+> ⚠️ Note: This is an **animated GIF** on black background showing live clock effect.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakashi-N&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakashi-N&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kakashi-N&show_icons=true&theme=dark" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakashi-N&theme=dark" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
