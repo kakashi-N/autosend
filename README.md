@@ -28,9 +28,9 @@
 
 ---
 
-## 🎮 Tetris Game Animation
+## (⁠◔⁠‿⁠◔⁠)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-tetris.svg" alt="tetris gif" />
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" alt="tetris gif" />
 </p>
 
 ---
