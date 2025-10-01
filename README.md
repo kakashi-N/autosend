@@ -28,7 +28,7 @@
 
 ---
 
-## 🎮 Cool GIF
+## madara rinegan gif
 <p align="center">
   <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/b81ace38-4d42-424b-8623-a5f4223bd8b8.gif" alt="tetris gif" width="300"/>
 </p>
