@@ -12,7 +12,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/orca-image--170702772.jpeg.jpeg" width="250" style="border-radius:50%; box-shadow: 0 0 15px #000000"/>
+  <img src="https://raw.githubusercontent.com/kakashi-N/autosend/main/9ac987f0-7f37-4278-b795-aee8614a186d.gif" width="250" style="border-radius:50%; box-shadow: 0 0 15px #000000"/>
 </p>
 
 ---
